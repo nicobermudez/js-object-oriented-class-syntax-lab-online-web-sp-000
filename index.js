@@ -5,5 +5,7 @@ class BoardMember {
     this.training = training
   }
 
-    
+    let veto = function() {
+      
+    }
 }
