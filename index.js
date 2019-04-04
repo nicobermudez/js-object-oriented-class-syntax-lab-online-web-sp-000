@@ -6,6 +6,6 @@ class BoardMember {
   }
 
     let veto = function() {
-      
+      return "No, I must disagree"
     }
 }
